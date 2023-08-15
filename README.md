@@ -61,7 +61,7 @@ You can follow [@NormalComputing](https://twitter.com/NormalComputing), [@remilo
 **Outlines** is available on PyPi:
 
 ``` bash
-pip install outlines
+pip install transformers outlines
 ```
 
 
